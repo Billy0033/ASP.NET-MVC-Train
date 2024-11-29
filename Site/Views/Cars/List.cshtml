@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "List Cars";
+}
+
+<div>
+    <h1>Все автомобили</h1>
+    <div class="row mt-5 mb-2">
+        @{
+            foreach (Car car in Model.allCars){
+                @Html.Partial("AllCars", car)
+            }
+
+        }
+    </div>
+
+</div>

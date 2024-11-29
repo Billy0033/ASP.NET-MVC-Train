@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Codes (Work)\\Train codes\\Site\\Site\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\repository\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\dbsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\dbsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\mocks\\mockcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\models\\shopcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\models\\shopcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\models\\shopcaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\models\\shopcaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\data\\interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\data\\interfaces\\iallcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|d:\\codes (work)\\train codes\\site\\site\\site\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9989D1C8-AA16-43C9-BAB7-41308954A152}|Site\\Site.csproj|solutionrelative:site\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Site\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Site\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:30:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Site\\Data\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:33:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Repository\\CarRepository.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\CarRepository.cs",
+              "RelativeToolTip": "Site\\Data\\Repository\\CarRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:33:33.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbsettings.json",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\dbsettings.json",
+              "RelativeDocumentMoniker": "Site\\dbsettings.json",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\dbsettings.json",
+              "RelativeToolTip": "Site\\dbsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-29T10:30:44.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "Site\\Controllers\\CarsController.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "Site\\Controllers\\CarsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:29:27.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Repository\\OrdersRepository.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Repository\\OrdersRepository.cs",
+              "RelativeToolTip": "Site\\Data\\Repository\\OrdersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:29:13.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Models\\Order.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\Order.cs",
+              "RelativeToolTip": "Site\\Data\\Models\\Order.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:26.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopCar.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\ShopCar.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Models\\ShopCar.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\ShopCar.cs",
+              "RelativeToolTip": "Site\\Data\\Models\\ShopCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:18.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopCarItem.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\ShopCarItem.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Models\\ShopCarItem.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\ShopCarItem.cs",
+              "RelativeToolTip": "Site\\Data\\Models\\ShopCarItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:17.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Models\\Car.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\Car.cs",
+              "RelativeToolTip": "Site\\Data\\Models\\Car.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:22:28.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAllCars.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Interfaces\\IAllCars.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Interfaces\\IAllCars.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Interfaces\\IAllCars.cs",
+              "RelativeToolTip": "Site\\Data\\Interfaces\\IAllCars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:22:19.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Program.cs",
+              "RelativeDocumentMoniker": "Site\\Program.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Program.cs",
+              "RelativeToolTip": "Site\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:21:24.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\appsettings.json",
+              "RelativeDocumentMoniker": "Site\\appsettings.json",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\appsettings.json",
+              "RelativeToolTip": "Site\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:16:23.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Site\\Data\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:16:21.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Site\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Site\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T12:18:49.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Site\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Site\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:16:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MockCars.cs",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Mocks\\MockCars.cs",
+              "RelativeDocumentMoniker": "Site\\Data\\Mocks\\MockCars.cs",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Data\\Mocks\\MockCars.cs",
+              "RelativeToolTip": "Site\\Data\\Mocks\\MockCars.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:52:21.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Site\\appsettings.Development.json",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\appsettings.Development.json",
+              "RelativeToolTip": "Site\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:16:27.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Site\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Site\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:49:58.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Site\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:49:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Site\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Site\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:45:23.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Site\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Codes (Work)\\Train codes\\Site\\Site\\Site\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Site\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T11:45:04.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
